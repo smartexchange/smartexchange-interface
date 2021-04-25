@@ -111,6 +111,6 @@
   "license": "GPL-3.0-or-later",
   "engines": {
     "node": "12.x"
-  },
+  }
   
 }
